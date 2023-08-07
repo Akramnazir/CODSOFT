@@ -88,7 +88,7 @@ class ATM {
     }
 }
 
-public class Main {
+public class AtmInterface {
     public static void main(String[] args) {
         double initialBalance = 1000; // Initial balance for the user's bank account
         BankAccount userAccount = new BankAccount(initialBalance);
